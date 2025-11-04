@@ -1,41 +1,36 @@
 # 🌱 EcoVida Sustentável - Site Fictício
 
-![EcoVida Sustentável](https://img.shields.io/badge/Status-Concluído-green)
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+Este projeto é um **site fictício sobre sustentabilidade e vida ecológica**, desenvolvido como parte do meu portfólio Front-End.  
+O site apresenta **práticas sustentáveis**, **serviços ecológicos** e **dicas ambientais** para um estilo de vida mais consciente e harmônico com o planeta.
 
-Um site fictício sobre sustentabilidade e vida ecológica, desenvolvido como projeto de portfólio utilizando HTML, CSS e JavaScript puro.
+---
 
-## 🚀 Demonstração
+## 🚀 Tecnologias utilizadas
+- **HTML5** — estrutura semântica da página  
+- **CSS3** — estilização responsiva e moderna com Grid e Flexbox  
+- **JavaScript** — interatividade e manipulação dinâmica dos elementos  
 
-![Preview do Site](https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+---
 
-**Link para visualização:** [Clique aqui para ver o projeto](https://seu-usuario.github.io/ecovida-sustentavel)
+## 💡 Funcionalidades
+- Design totalmente responsivo para todos os dispositivos  
+- Navegação suave entre seções com scroll animado  
+- Menu mobile interativo com toggle  
+- Formulário de newsletter com validação de e-mail  
+- Animações CSS e efeitos hover nos elementos  
+- Cards interativos com informações sobre sustentabilidade  
 
-## ✨ Características
+---
 
-- **Design Responsivo** - Adaptável para todos os dispositivos
-- **Animações Suaves** - Efeitos CSS e JavaScript
-- **Navegação Intuitiva** - Menu mobile funcional
-- **Formulário Interativo** - Validação de e-mail
-- **Performance Otimizada** - Carregamento rápido
-- **Código Semântico** - Estrutura limpa e organizada
+## 🎯 Objetivo do projeto
+O objetivo deste projeto é **simular a interface de um portal sobre sustentabilidade**, aplicando boas práticas de **HTML semântico**, **CSS responsivo** e **JavaScript interativo** — servindo como demonstração prática das minhas habilidades em desenvolvimento front-end.
 
-## 🛠️ Tecnologias Utilizadas
+---
 
-- **HTML5** - Estrutura semântica
-- **CSS3** - Estilos e animações
-  - Flexbox e Grid Layout
-  - Variáveis CSS
-  - Media Queries
-  - Transições e transformações
-- **JavaScript Vanilla** - Interatividade
-  - DOM Manipulation
-  - Event Listeners
-  - Intersection Observer API
-  - Form Validation
-- **Font Awesome** - Ícones
-- **Google Fonts** - Tipografia
+## 📬 Contato
+👤 **Victor Stoquini**  
+📧 [victorstoquini@hotmail.com](mailto:victorstoquini@hotmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/victorstoquini/)
+---
 
-## 📁 Estrutura do Projeto
+⭐ _Projeto criado para estudo e aprimoramento de habilidades em desenvolvimento web._
